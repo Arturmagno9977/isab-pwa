@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93fddb70.css",
+    "main.js": "/static/js/main.1e112390.js",
+    "static/media/output.png": "/static/media/output.7ba00ddff63bfe9e8e3f.png",
+    "static/media/futebol4.jpg": "/static/media/futebol4.d12a4fbbc0f3e03297f8.jpg",
+    "static/media/natacao3.jpg": "/static/media/natacao3.fcbe928a6434a58f75e0.jpg",
+    "static/media/capa_hidro.jpg": "/static/media/capa_hidro.e5616fd8f24fb40be9cf.jpg",
+    "static/media/hidroginastica4.jpg": "/static/media/hidroginastica4.e28b66b080330e69d862.jpg",
+    "static/media/flyer_natacao.jpg": "/static/media/flyer_natacao.5a8b14d91a25a4e5cf65.jpg",
+    "static/media/hidroginastica.jpg": "/static/media/hidroginastica.75f01bdf237dd7c9beaa.jpg",
+    "static/media/entrega3.jpg": "/static/media/entrega3.19a9f831a55315a53089.jpg",
+    "static/media/natacao.jpg": "/static/media/natacao.820f198e8a1cb06b2b5c.jpg",
+    "index.html": "/index.html",
+    "main.93fddb70.css.map": "/static/css/main.93fddb70.css.map",
+    "main.1e112390.js.map": "/static/js/main.1e112390.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93fddb70.css",
+    "static/js/main.1e112390.js"
+  ]
+}
